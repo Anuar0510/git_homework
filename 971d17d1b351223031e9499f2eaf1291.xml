@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<fm_catalog date="2022-11-24 13:11">
+<fm_catalog date="2022-11-24 15:11">
   <shop>
     <merchant-id>APFOnQ5ewbVkiLbzMG</merchant-id>
     <offers>
@@ -866,14 +866,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1820</price>
-      </offer>
-      <offer sku="LU-10393">
-        <name>Луи Филипп Гель-лак Mohito 01 10g</name>
-        <vendor>Луи Филипп</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2540</price>
       </offer>
       <offer sku="GlFlikCosmo6">
         <name>CosmoLac Гель-лак/Gel polish Фликер №6 Искра Вселенной 7,5 мл</name>
@@ -2603,14 +2595,6 @@ F 240 золото</name>
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>840</price>
-      </offer>
-      <offer sku="FAR-03">
-        <name>FARMSTAY Тканевая маска для лица  VISIBLE DIFFERENCE MASK SHEET PEARL 23ML</name>
-        <vendor>FARMSTAY</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>250</price>
       </offer>
       <offer sku="S p180-25">
         <name>Prozatochka спонжик диск S p180 для полировки 25 шт</name>
@@ -6867,14 +6851,6 @@ F 240 золото</name>
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1820</price>
-      </offer>
-      <offer sku="00-00005459АФН">
-        <name>All-for-nails, Кисть для дизайна FRENCH #10, 1 шт</name>
-        <vendor>All for nails</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1680</price>
       </offer>
       <offer sku="42875-3">
         <name>BORN PRETTY-G03 Гель-лак 6ml</name>
@@ -19396,14 +19372,6 @@ F 240 золото</name>
         </pickup-options>
         <price>998</price>
       </offer>
-      <offer sku="366927">
-        <name>Закрепитель для гель-лака ADRICOCO Velvet (8 мл.)*</name>
-        <vendor>ADRICOCO</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1853</price>
-      </offer>
       <offer sku="205863">
         <name>Основа для гель-лака ADRICOCO Flexible Base, (8 мл.)</name>
         <vendor>ADRICOCO</vendor>
@@ -24237,14 +24205,6 @@ F 240 золото</name>
         </pickup-options>
         <price>250</price>
       </offer>
-      <offer sku="LU-0063">
-        <name>Луи Филипп Base Strong 30 g черная</name>
-        <vendor>Луи Филипп</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6510</price>
-      </offer>
       <offer sku="kor-6821">
         <name>GRACE DAY Тканевая маска Grace Day Cellulose Mask 27ml  Vitamin C</name>
         <vendor>GRACE DAY</vendor>
@@ -25548,14 +25508,6 @@ F 240 золото</name>
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1600</price>
-      </offer>
-      <offer sku="76126">
-        <name>Гель-лак Adricoco  Little Pixie №04 - Влюбленный эльф  (8 мл.)</name>
-        <vendor>ADRICOCO</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>998</price>
       </offer>
       <offer sku="GlCosmo76">
         <name>Cosmolac Гель-лак/Gel polish №76 Мятный коктейль 7,5 мл</name>
